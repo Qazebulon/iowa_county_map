@@ -1,0 +1,28 @@
+img {
+	width: 100%;
+}
+
+.county {
+	fill: white;
+	stroke: black;
+	stroke-width: 2;
+}
+.county:hover {
+	fill: red;
+}
+
+.north {
+	fill: lightblue;
+}
+.siouxland {
+	fill: plum;
+}
+.western {
+	fill: lightgreen;
+}
+.central {
+	fill: salmon;
+}
+.southwest {
+	fill: gold;
+}
